@@ -21,7 +21,9 @@ key申请：http://661100.xyz
 ![这是图片](https://pbs.twimg.com/media/Gg7DuXcaEAAtl_O?format=jpg&name=medium "教程")
 
 ## 配置token_proxy.txt
+```txt
 token1||||http://dan:dan@127.0.0.1:7890
 token2||||http://127.0.0.1:7890
+```
 
 
